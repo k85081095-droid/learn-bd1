@@ -1,2 +1,2 @@
-# learn-bd1
-new 2
+starting numpy and github<br>
+learning git and github
